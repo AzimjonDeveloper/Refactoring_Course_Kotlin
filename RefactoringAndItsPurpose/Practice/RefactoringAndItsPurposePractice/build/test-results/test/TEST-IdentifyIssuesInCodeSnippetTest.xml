@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IdentifyIssuesInCodeSnippetTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-03-20T12:59:07" hostname="DESKTOP-8N146GG" time="2.634">
+  <properties/>
+  <testcase name="testMethodAndParametersRenamed()" classname="IdentifyIssuesInCodeSnippetTest" time="2.463"/>
+  <testcase name="testRedundantVariablesRemoved()" classname="IdentifyIssuesInCodeSnippetTest" time="0.17"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

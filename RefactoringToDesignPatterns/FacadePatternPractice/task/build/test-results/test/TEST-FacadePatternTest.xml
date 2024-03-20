@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FacadePatternTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-20T14:35:54" hostname="DESKTOP-8N146GG" time="3.39">
+  <properties/>
+  <testcase name="videoConversionFacadeClassTest()" classname="FacadePatternTest" time="3.39"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
